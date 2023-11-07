@@ -1,6 +1,6 @@
 # História da Computação
 
-![Computador Antigo](istockphoto-182851408-612x612.jpg)
+![Computador Antigo](ComputadorAntigo.jpg)
 
 A história da computação é repleta de avanços incríveis e inovações que moldaram o mundo da tecnologia como o conhecemos hoje. Neste capítulo, exploraremos marcos significativos na evolução da computação.
 
@@ -8,7 +8,7 @@ A história da computação é repleta de avanços incríveis e inovações que 
 
 O ábaco é frequentemente considerado o primeiro dispositivo de cálculo. Desenvolvido há milhares de anos, o ábaco era uma ferramenta manual utilizada para realizar cálculos simples. Embora primitivo em comparação com os computadores modernos, o ábaco foi uma inovação importante na história da computação.
 
-![Ábaco](imagens/abaco.jpg)
+![Ábaco](Ábaco.jpg)
 
 ## Máquina Analítica de Charles Babbage
 
