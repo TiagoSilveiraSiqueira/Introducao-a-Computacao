@@ -44,5 +44,5 @@ Neste curso, você aprenderá mais sobre os princípios subjacentes ao hardware 
 
 Continue explorando os outros tópicos para aprofundar seu conhecimento sobre computação.
 
-- [História da Computação](imagens/historia-computacao.md)
+- [História da Computação](historia-computacao.md)
 - [Modelos de Dados](modelos-dados.md)
