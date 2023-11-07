@@ -1,6 +1,6 @@
 # Princípios Básicos de Hardware e Software
 
-![Hardware e Software](hardware-software1.jpg)
+![Hardware e Software](imagens/hardware-software1.jpg)
 
 Neste capítulo, exploraremos os princípios básicos que sustentam o funcionamento dos sistemas de computação, incluindo hardware e software.
 
@@ -20,7 +20,7 @@ O hardware refere-se a todos os componentes físicos de um computador. Isso incl
 
 O hardware é a parte tangível de um sistema de computação e desempenha um papel fundamental na execução de tarefas de processamento de dados.
 
-![Exemplo de Hardware](exemplo-hardware.jpg)
+![Exemplo de Hardware](imagens/exemplo-hardware.jpg)
 
 ## Software
 
@@ -34,7 +34,7 @@ O software consiste em programas de computador, sistemas operacionais e aplicati
 
 O software e o hardware trabalham juntos para permitir que os computadores executem uma ampla variedade de tarefas, desde processamento de texto até execução de aplicativos complexos.
 
-![Exemplo de Software](exemplo-software.jpg)
+![Exemplo de Software](imagens/exemplo-software.jpg)
 
 ## Interconexão entre Hardware e Software
 
@@ -44,5 +44,5 @@ Neste curso, você aprenderá mais sobre os princípios subjacentes ao hardware 
 
 Continue explorando os outros tópicos para aprofundar seu conhecimento sobre computação.
 
-- [História da Computação](historia-computacao.md)
+- [História da Computação](imagens/historia-computacao.md)
 - [Modelos de Dados](modelos-dados.md)
