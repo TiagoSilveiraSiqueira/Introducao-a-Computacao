@@ -15,7 +15,3 @@ Este repositório contém materiais e recursos para o curso "Introdução à Com
 ## Como Contribuir
 
 Se desejar contribuir para este repositório, sinta-se à vontade para criar problemas (issues) ou enviar solicitações de pull (pull requests).
-
-## Licença
-
-Este repositório é licenciado sob a Licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter detalhes.
