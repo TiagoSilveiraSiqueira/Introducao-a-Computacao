@@ -1,6 +1,6 @@
 # Princípios Básicos de Hardware e Software
 
-![Hardware e Software](hardware-software.jpg)
+![Hardware e Software](hardware-software1.jpg)
 
 Neste capítulo, exploraremos os princípios básicos que sustentam o funcionamento dos sistemas de computação, incluindo hardware e software.
 
