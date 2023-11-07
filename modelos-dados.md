@@ -1,6 +1,6 @@
 # Modelos de Dados
 
-![Modelos de Dados](modelos-dados.jpg)
+![Modelos de Dados](imagens/modelos-dados.jpg)
 
 Neste capítulo, exploraremos os diferentes modelos de dados usados na computação e na organização de informações.
 
@@ -8,25 +8,25 @@ Neste capítulo, exploraremos os diferentes modelos de dados usados na computaç
 
 O modelo de dados relacional é um dos modelos mais amplamente usados em bancos de dados. Ele organiza os dados em tabelas com linhas e colunas, e usa chaves primárias e estrangeiras para estabelecer relacionamentos entre as tabelas. É amplamente utilizado em sistemas de gerenciamento de bancos de dados relacionais (RDBMS), como MySQL, PostgreSQL e Oracle.
 
-![Modelo de Dados Relacional](modelo-dados-relacional.jpg)
+![Modelo de Dados Relacional](imagens/modelo-dados-relacional.jpg)
 
 ## Modelo de Dados NoSQL
 
 Os bancos de dados NoSQL (não relacionais) adotam abordagens diferentes para armazenar dados, permitindo maior flexibilidade na estrutura dos dados. Esses modelos incluem bancos de dados de documentos, de chave-valor, de colunas amplas e de grafos. Eles são adequados para cenários em que os dados são variados e não se encaixam bem em um esquema de tabela relacional.
 
-![Modelo de Dados NoSQL](modelo-dados-nosql.jpg)
+![Modelo de Dados NoSQL](imagens/modelo-dados-nosql.jpg)
 
 ## Modelo de Dados Hierárquico
 
 O modelo de dados hierárquico organiza os dados em uma estrutura de árvore, na qual os registros são conectados hierarquicamente. Este modelo é comumente usado em sistemas de gerenciamento de bancos de dados hierárquicos e é adequado para representar relações pai-filho.
 
-![Modelo de Dados Hierárquico](modelo-dados-hierarquico.jpg)
+![Modelo de Dados Hierárquico](imagens/modelo-dados-hierarquico.jpg)
 
 ## Modelo de Dados em Rede
 
 O modelo de dados em rede é semelhante ao hierárquico, mas permite relações mais complexas entre os registros. Ele é frequentemente usado em sistemas de gerenciamento de bancos de dados em rede e é útil para representar relações muitos-para-muitos.
 
-![Modelo de Dados em Rede](modelo-dados-rede.jpg)
+![Modelo de Dados em Rede](imagens/modelo-dados-rede.jpg)
 
 ## Escolhendo o Modelo de Dados Adequado
 
