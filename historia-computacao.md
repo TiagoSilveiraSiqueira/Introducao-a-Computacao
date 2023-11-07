@@ -1,7 +1,6 @@
 # História da Computação
 
-![Computador Antigo](![image](https://github.com/koapa/Introducao-a-Computacao/assets/28732598/e5ce1283-027a-4814-92c3-b725d5ff1da8)
-)
+![Computador Antigo](istockphoto-182851408-612x612.jpg)
 
 A história da computação é repleta de avanços incríveis e inovações que moldaram o mundo da tecnologia como o conhecemos hoje. Neste capítulo, exploraremos marcos significativos na evolução da computação.
 
