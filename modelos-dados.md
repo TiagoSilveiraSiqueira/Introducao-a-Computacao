@@ -28,11 +28,41 @@ O modelo de dados em rede é semelhante ao hierárquico, mas permite relações 
 
 ![Modelo de Dados em Rede](imagens/modelo-dados-rede.jpg)
 
+# Modelo de Dados
+
+## 1. Modelo Hierárquico
+   - **Exemplo:** Sistema escolar
+     - Departamento
+       - Curso
+         - Disciplina
+
+## 2. Modelo de Rede
+   - **Exemplo:** Rede social
+     - Perfil de Usuário
+       - Conexões
+
+## 3. Modelo Relacional
+   - **Exemplo:** Banco de dados da biblioteca
+     - Tabelas: Livros, Autores, Empréstimos
+
+## 4. Modelo de Objetos
+   - **Exemplo:** Jogo online
+     - Personagens
+       - Atributos específicos
+
+## 5. Modelo Orientado a Documentos
+   - **Exemplo:** Catálogo de produtos online
+     - Documentos para cada produto
+       - Detalhes
+
+
+
 ## Escolhendo o Modelo de Dados Adequado
 
 A escolha do modelo de dados apropriado depende das necessidades específicas do seu sistema e dos tipos de dados que você deseja armazenar. Cada modelo tem suas vantagens e desvantagens, e a escolha certa pode fazer a diferença no desempenho e na eficiência do seu sistema.
 
 Neste curso, você explorará em detalhes os diferentes modelos de dados, suas características e casos de uso, para que possa tomar decisões informadas ao projetar sistemas de armazenamento de dados.
+
 
 Continue explorando os outros tópicos para aprofundar seu conhecimento sobre computação.
 
