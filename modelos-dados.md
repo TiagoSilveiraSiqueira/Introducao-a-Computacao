@@ -28,32 +28,61 @@ O modelo de dados em rede é semelhante ao hierárquico, mas permite relações 
 
 ![Modelo de Dados em Rede](imagens/modelo-dados-rede.jpg)
 
-# Modelo de Dados
+# Mapa Mental: Modelos de Dados
 
 ## 1. Modelo Hierárquico
-   - **Exemplo:** Sistema escolar
-     - Departamento
-       - Curso
-         - Disciplina
+
+- **Definição:**
+  - Representa dados em uma estrutura de árvore.
+  - Níveis de hierarquia definem a relação entre os dados.
+
+- **Exemplo do Mundo Real:**
+  - Sistema escolar:
+    - Departamento
+      - Curso
+        - Disciplina
 
 ## 2. Modelo de Rede
-   - **Exemplo:** Rede social
-     - Perfil de Usuário
-       - Conexões
+
+- **Definição:**
+  - Usa grafos para representar dados.
+  - Registros podem ter múltiplas conexões.
+
+- **Exemplo do Mundo Real:**
+  - Rede social:
+    - Usuários interconectados.
 
 ## 3. Modelo Relacional
-   - **Exemplo:** Banco de dados da biblioteca
-     - Tabelas: Livros, Autores, Empréstimos
+
+- **Definição:**
+  - Organiza dados em tabelas.
+  - Relacionamentos são estabelecidos por chaves.
+
+- **Exemplo do Mundo Real:**
+  - Banco de dados de biblioteca:
+    - Tabelas para Livros, Autores, Empréstimos.
 
 ## 4. Modelo de Objetos
-   - **Exemplo:** Jogo online
-     - Personagens
-       - Atributos específicos
+
+- **Definição:**
+  - Representa dados como objetos.
+  - Relações entre objetos refletem relações do mundo real.
+
+- **Exemplo do Mundo Real:**
+  - Jogo online:
+    - Personagens e Itens como objetos.
 
 ## 5. Modelo Orientado a Documentos
-   - **Exemplo:** Catálogo de produtos online
-     - Documentos para cada produto
-       - Detalhes
+
+- **Definição:**
+  - Armazena dados em documentos (JSON, XML).
+  - Flexível e escalável.
+
+- **Exemplo do Mundo Real:**
+  - Catálogo de produtos online:
+    - Documentos detalhando cada produto.
+
+
 
 
 
