@@ -72,7 +72,7 @@ O modelo de dados em rede é semelhante ao hierárquico, mas permite relações 
   - Jogo online:
     - Personagens e Itens como objetos.
 
-## 5. Modelo Orientado a Documentos
+## 5. Modelo Orientado a Documentos (NoSQL)
 
 - **Definição:**
   - Armazena dados em documentos (JSON, XML).
